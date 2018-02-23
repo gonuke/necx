@@ -2,7 +2,7 @@
 uid: template-node
 layout: node
 permalink: /nodes/template-node/
-title: Template Node
+title: Modified Template Node
 prerequisites:
   - git
 learning_objectives:
