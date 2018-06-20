@@ -1,0 +1,13 @@
+---
+uid: thermal-conductivity-examples-example
+title: Comparing thermal conductivities of common materials
+type: Sorting
+options:
+  text: Sort these materials from the lowest to the highest thermal conductivity.
+  sorted-order:
+     - glass
+     - plastic
+     - stainless steel 316
+     - aluminum
+     - copper
+...

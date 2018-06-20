@@ -1,0 +1,9 @@
+---
+uid: thermal-conductivity-units-example
+title: Units of Thermal Conductivity
+type: Expression
+options:
+  text: Arrange the following units to create the units of thermal conductivity.
+  available units: W, m, K, s, kg
+  correct answer: W^1 m^-1 K^-1
+...

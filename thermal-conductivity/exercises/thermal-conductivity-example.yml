@@ -1,0 +1,16 @@
+---
+uid: thermal-conductivity-example
+title: Thermal Conductivity Definition
+type: MultipleChoice
+options:
+  text: What physics of a medium is described by its thermal conductivity?
+  correct_answers: 
+    - value: The ability to conduct heat.
+      comment: 
+  incorrect_answers: 
+    - value: The ability to conduct electricity.
+      comment: While there is close analogy between thermal conductivity and
+               electrical conductivity, they are different properties.
+    - value: The ability to store energy.
+      comment: This is usually described by the specific heat.
+...
