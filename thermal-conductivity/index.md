@@ -30,5 +30,6 @@ there is also a close analogy between thermal conductivity and electrical
 conductivity.  Media with low thermal conductivity are often referred to as
 insulators.
 
-
+The variable that is most commonly used to represent thermal conductivity is
+$k$.
 
