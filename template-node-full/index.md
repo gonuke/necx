@@ -1,7 +1,7 @@
 ---
-uuid: template-node
+uuid: template-node-full
 layout: node
-permalink: /nodes/template-node/
+permalink: /nodes/template-node-full/
 title: Template Node
 prerequisites:
   - git
