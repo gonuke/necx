@@ -1,9 +1,10 @@
 ---
+layout: node
 uuid: flux-distribution-homo-reactor-review
 title: Review of Reactor Flux Distributions in Homogenous Reactors
 prerequisites:
   - 2grp-neutron-diffusion-solns-bare-homogeneous-reactors
-learning-objectives:
+learning_objectives:
   - recall the characteristic axial shape for a cylindrical homogenous reactor
   - recall the characteristic axial shape for a infinite slab homogenous reactor
   - recall the characteristic axial shape for a spherical homogenous reactor
