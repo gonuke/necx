@@ -30,6 +30,7 @@ than the dimensions of the physical system, \(R\).
 
 Table X provides the standard shapes for some common geometries.
 
+
 Table X
 
 | Geometry                 |  Flux Distribution                                                        |
@@ -48,4 +49,6 @@ Table X
 This figure show the shape of the solution for an infinite slab or the axial
 dimension of a cylindrical reactor.
 
-![Thermal and fast flux distributions (arbitrary units) for a ](img/cos_flux.svg)
+![Thermal and fast flux distributions (arbitrary units) for a ](../img/cos_flux.svg)
+
+
