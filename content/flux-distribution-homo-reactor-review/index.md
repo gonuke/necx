@@ -32,7 +32,6 @@ Table X provides the standard shapes for some common geometries.
 
 Table X
 
-+--------------------------+---------------------------------------------------------------------------+
 | Geometry                 |  Flux Distribution                                                        |
 +--------------------------+---------------------------------------------------------------------------+
 | infinite slab of         |  \(\cos \left( \frac{\pi x}{\tilde{a}} \left)\)                           |
