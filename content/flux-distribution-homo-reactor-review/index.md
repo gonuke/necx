@@ -33,23 +33,11 @@ Table X provides the standard shapes for some common geometries.
 
 Table X
 
-| Geometry                 |  Flux Distribution                                                        |
---------------------------------------------------------------------------------------------------------
-| test                     | test                                                                      |
-
-
-
-+--------------------------+---------------------------------------------------------------------------+
-| infinite slab of         |  \(\cos \left( \frac{\pi x}{\tilde{a}} \left)\)                           |
-| thickeness \(\tilde{a}\) |                                                                           |
-+--------------------------+---------------------------------------------------------------------------+
-| sphere of                |  \(\frac{\tilde{R}}{\pi r} \sin \left( \frac{\pi r}{\tilde{R}} \right )\) |
-| radius \(\tilde{R}\)     |                                                                           |
-+--------------------------+---------------------------------------------------------------------------+
-| cylinder of              | axial: \(\cos \left( \frac{\pi z}{\tilde{H}} \left)\)                     |
-| radius \(\tilde{R}\) and | radial: \(J_v \left( \frac{2.405 r}{\tilde{R}} \right )\)                 |
-| height \(\tilde{H}\)     |                                                                           |
-+--------------------------+---------------------------------------------------------------------------+
+| Geometry                                                   |      Flux Distribution                                                    |
+|------------------------------------------------------------|---------------------------------------------------------------------------|
+| infinite slab of thickeness $$\tilde{a}$$                  |    $$\cos \left( \frac{\pi x}{\tilde{a}} \right)$$                        |
+| sphere of radius $$\tilde{R}$$                             |  $$\frac{\tilde{R}}{\pi r} \sin \left( \frac{\pi r}{\tilde{R}} \right )$$ |
+| cylinder of radius $$\tilde{R}$$ and height $$\tilde{H}$$  |axial: $$\cos \left( \frac{\pi z}{\tilde{H}} \right)$$, radial: $$J_v \left( \frac{2.405 r}{\tilde{R}} \right )$$                 |
 
 This figure show the shape of the solution for an infinite slab or the axial
 dimension of a cylindrical reactor.
